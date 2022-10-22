@@ -4,19 +4,7 @@ Group project
  By: Julien Barbier, co-founder & CEO
  Weight: 5
  Project to be done in teams of 2 people (your team: OBED AYAMGA, CALEB ACKAAH BAFFOE)
- Ongoing second chance project - started Oct 13, 2022 11:00 PM, must end by Oct 21, 2022 11:00 PM
- An auto review will be launched at the deadline
-In a nutshell…
-Contribution: 100.0%
-Auto QA review: 101.0/101 mandatory & 746.0/1123 optional
-Altogether:  166.43%
-Mandatory: 100.0%
-Optional: 66.43%
-Contribution: 100.0%
-Calculation:  100.0% * (100.0% + (100.0% * 66.43%) )  == 166.43%
-Concepts
-For this project, we expect you to look at these concepts:
-
+ 
 Group Projects
 Pair Programming - How To
 Flowcharts
